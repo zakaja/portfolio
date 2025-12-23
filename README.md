@@ -40,7 +40,4 @@ Powered by **React**, **Three.js**, and smooth motion effects for an immersive e
 - Aceternity UI
 - Magic UI
 
----
-
-## 🗂️ Codebase Structure
 
