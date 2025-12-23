@@ -7,7 +7,7 @@ Created with **React**, **Three.js**, and smooth motion effects to deliver an im
 
 ## 🌍 Live Website
 
-https://zakaja.github.io/Portfolio/
+https://zakaja.github.io/portfolio/
 
 ---
 
